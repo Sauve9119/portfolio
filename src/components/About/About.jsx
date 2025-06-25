@@ -48,8 +48,8 @@ const About = () => {
             efficient solutions.
           </p>
           {/* Resume Button */}
-          <a
            {/*href="https://drive.google.com/file/d/1CYSrNoAq_bZ0x2aA5ejMPYATv_LOgTHA/view?usp=drive_link */}
+          <a
             href="https://drive.google.com/file/d/1xNHtRnUVKVg8VeiBxhh2yEatH3re19Li/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
