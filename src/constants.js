@@ -181,7 +181,7 @@ export const SkillsInfo = [
       title: "Portfolio Website",
       desc: "A personal portfolio website built to showcase my skills, projects, and experiences in web development. It features a modern design, responsive layout, and interactive elements.",
       techStack: ["ReactJS", "Tailwind CSS"],
-      link: "https://sauve9119.github.io/Portfolio/",
+      link: "https://rachitgupta.vercel.app/",
       github: "https://github.com/Sauve9119/Portfolio",
     }
   ];  
